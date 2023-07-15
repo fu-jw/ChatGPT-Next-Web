@@ -1,3 +1,10 @@
+useage：
+
+   接口地址：https://gptproxy.fu-jw.com/
+   
+   API Key：1ZxeuBqJrpgflHUO5KDCh6u9b8FuDnRUd6sz8D6drZ4
+   
+---   
 <div align="center">
 <img src="./docs/images/icon.svg" alt="icon"/>
 
