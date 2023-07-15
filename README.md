@@ -1,9 +1,15 @@
-useage：
-
-   接口地址：https://gptproxy.fu-jw.com/
-   
-   API Key：1ZxeuBqJrpgflHUO5KDCh6u9b8FuDnRUd6sz8D6drZ4
-   
+>useage：
+>
+>   接口地址：https://gptproxy.fu-jw.com/
+>   
+>   API Key：1ZxeuBqJrpgflHUO5KDCh6u9b8FuDnRUd6sz8D6drZ4
+>
+>limit：
+>
+>    gpt-4：    10次/分钟，1000次/天
+>
+>   gpt-3.5：   20次/分钟，2000次/天
+      
 ---   
 <div align="center">
 <img src="./docs/images/icon.svg" alt="icon"/>
