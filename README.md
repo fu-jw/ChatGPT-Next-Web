@@ -319,4 +319,4 @@ If you want to add a new translation, read this [document](./docs/translation.md
 
 ## LICENSE
 
-[Anti 996 License](https://github.com/kattgu7/Anti-996-License/blob/master/LICENSE_CN_EN)
+[MIT](https://opensource.org/license/mit/)
