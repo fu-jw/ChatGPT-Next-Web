@@ -2,7 +2,7 @@
 >
 >   接口地址：https://chimeragpt.adventblocks.cc/api
 >   
->   API Key：~~~1ZxeuBqJrpgflHUO5KDCh6u9b8FuDnRUd6sz8D6drZ4~~~
+>   API Key： ~~1ZxeuBqJrpgflHUO5KDCh6u9b8FuDnRUd6sz8D6drZ4~~
 >
 >limit：
 >
