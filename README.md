@@ -1,16 +1,3 @@
->useage：
->
->   接口地址：https://api.nova-oss.com/v1 ~~https://chimeragpt.adventblocks.cc/api~~
->   
->   API Key： 在discord上的nova频道自行申请 ~~1ZxeuBqJrpgflHUO5KDCh6u9b8FuDnRUd6sz8D6drZ4~~
->
->limit：
->
->    gpt-4：   积分制 ~~5次/分钟，700次/天~~ ~~10次/分钟，1000次/天~~
->
->   gpt-3.5：  积分制 ~~20次/分钟，2000次/天~~
-      
----   
 <div align="center">
 <img src="./docs/images/icon.svg" alt="icon"/>
 
